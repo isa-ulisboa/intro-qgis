@@ -1,8 +1,14 @@
 # intro-qgis
-Curso de introdução a QGIS ISA Open Campus
+Curso ISA Open Campus [Introdução a QGIS](https://www.isa-opencampus.pt/introducaoQGIS)
 
-## Materais de apoio
-Os materiais de apoio estão disponíveis neste [link](https://isa-ulisboa.github.io/sig/)
+* Curso de formação (sem avaliação e sem atribuição de ECTS).
+* O formando receberá um Certificado de Curso de Formação.
+* É exigida a presença em, pelo menos, 85% do tempo de contacto.
+
+## Ligações para o curso
+
+* [Materiais de apoio](https://isa-ulisboa.github.io/sig/)
+* [Página oficial Fenix de acesso restrito](https://fenix.isa.ulisboa.pt/courses/cfiqgis-846413499991002)
 
 ## Sessão 1 (2 outubro 2023)
 
