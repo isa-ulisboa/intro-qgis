@@ -7,7 +7,8 @@ Curso ISA Open Campus [Introdução a QGIS](https://www.isa-opencampus.pt/introd
 
 ## Ligações para o curso
 
-* [Materiais de apoio](https://isa-ulisboa.github.io/sig/)
+* [Caderno de apoio](https://isa-ulisboa.github.io/sig/Caderno-aulas-praticas-qgis3_SIG.pdf)
+* [Canal Youtube](https://www.youtube.com/@qgis3emportugues)
 * [Página oficial Fenix de acesso restrito](https://fenix.isa.ulisboa.pt/courses/cfiqgis-846413499991002)
 
 ## Sessão 1 (2 outubro 2023)
