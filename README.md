@@ -19,7 +19,7 @@ Curso ISA Open Campus [Introdução a QGIS](https://www.isa-opencampus.pt/introd
 
 Dados para a sessão:
 * Dados vetoriais (concelhos de Portugal Continental, linhas de água) e tabela simples:
-  - [Download zip file: Conc2016, linhasAgua, VACc](https://github.com/isa-ulisboa/sig/blob/main/IntroQGIS.zip)
+  - [Download zip file: Conc2016, linhasAgua, VACc](https://github.com/isa-ulisboa/sig/raw/main/IntroQGIS.zip)
 * Descarregar o modelo digital de elevações para Portugal Continental (25 m)
   - [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
   - [Link: ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
