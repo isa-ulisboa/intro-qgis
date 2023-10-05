@@ -9,7 +9,8 @@ Curso ISA Open Campus [Introdução a QGIS](https://www.isa-opencampus.pt/introd
 
 * [Caderno de apoio](https://isa-ulisboa.github.io/sig/Caderno-aulas-praticas-qgis3_SIG.pdf)
 * [Canal Youtube](https://www.youtube.com/@qgis3emportugues)
-* [Página oficial Fenix de acesso restrito](https://fenix.isa.ulisboa.pt/courses/cfiqgis-846413499991002). As gravações das sessões estão apenas acessíveis aos formando inscritos no curso e estão no separador *gravacoes_sessoes*.
+* [Página oficial Fenix de acesso restrito](https://fenix.isa.ulisboa.pt/courses/cfiqgis-846413499991002). As gravações das sessões estão apenas acessíveis aos formando inscritos no curso e estão no separador *gravacoes_sessoes*
+* [Link Zoom para as sessões](https://videoconf-colibri.zoom.us/j/97385541766) 
 
 ## Sessão 1 (2 outubro 2023): início até secção 1.4.8 do caderno de apoio
 
@@ -24,4 +25,10 @@ Dados para a sessão:
   - [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
   - [Link: ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
+## Sessão 2 (4 de outubro de 2023). Secções 1.5.1 e 1.5.2 do caderno de apoio
 
+* Seleção de features por atributos e por localização (Secção 1.5), exempos com dados conc2016 e linhasAgua:
+  - Seleção por atributos: selecção de features usando expressões (1.5.1)
+  - Seleção por localização: selecção de features usando relações espaciais (1.5.2)
+
+## Sessão 3 (9 de outubro de 2023). 
