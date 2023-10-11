@@ -38,4 +38,16 @@ Dados para a sessão:
 * Layout manager para construção de cartas
 * Sugestão de exercício: produção de vinho branco por concelho, dados Pordata
 
-## 
+## Sessão 4 (11 de outubro de 2023). 
+
+* Acesso interactivo a imagens de muito boa resolução e outros dados “web”.
+* Alguns links para conexões XYZ:
+  - Google satellite:  https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}  (permite escolher nível de zoom: máximo=23)
+  - Bing: https://t0.tiles.virtualearth.net/tiles/a{q}.jpeg?g=685&mkt=en-us&n=z
+  - ESRI imagery: https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
+  - Stamen Toner: https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png
+  - Stamen Watercolor: https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg
+  - OpenStreetMap: https://tile.openstreetmap.org/{z}/{x}/{y}.png
+* Plugin para acesso a Basemaps:
+  - Instalar Plugin QuickMapServices. Sugestão: depois de instalar o plugin, abrir no menu "Web" e escolher "Settings" e "More services" para instalar o "Contributed pack" de basemaps.
+* 
