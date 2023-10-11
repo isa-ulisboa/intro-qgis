@@ -31,4 +31,11 @@ Dados para a sessão:
   - Seleção por atributos: selecção de features usando expressões (1.5.1)
   - Seleção por localização: selecção de features usando relações espaciais (1.5.2)
 
-## Sessão 3 (9 de outubro de 2023). 
+## Sessão 3 (9 de outubro de 2023). Secções 1.4.9-1.4.12, 1.6, 1.7
+
+* Adicionar conjunto de dados geográficos do tipo matricial (raster) ao projecto
+* Tabelas simples (txt, csv,...) e cruzamento de tabelas; Criar novos atributos
+* Layout manager para construção de cartas
+* Sugestão de exercício: produção de vinho branco por concelho, dados Pordata
+
+## 
