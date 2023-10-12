@@ -38,7 +38,7 @@ Dados para a sessão:
 * Layout manager para construção de cartas
 * Sugestão de exercício: produção de vinho branco por concelho, dados Pordata
 
-## Sessão 4 (11 de outubro de 2023). 
+## Sessão 4 (11 de outubro de 2023). Secções 2.1 e 2.2
 
 * Acesso interactivo a imagens de muito boa resolução e outros dados “web”.
 * Alguns links para conexões XYZ:
@@ -50,4 +50,4 @@ Dados para a sessão:
   - OpenStreetMap: https://tile.openstreetmap.org/{z}/{x}/{y}.png
 * Plugin para acesso a Basemaps:
   - Instalar Plugin QuickMapServices. Sugestão: depois de instalar o plugin, abrir no menu "Web" e escolher "Settings" e "More services" para instalar o "Contributed pack" de basemaps.
-* 
+* Exercício de edição para objectos vetoriais do tipo “linha”: criar novo conjunto de dados geográficos, digitalização, "snapping", "vertex tool".
