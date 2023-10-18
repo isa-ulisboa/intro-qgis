@@ -10,7 +10,8 @@ Curso ISA Open Campus [Introdução a QGIS](https://www.isa-opencampus.pt/introd
 * [Caderno de apoio](https://isa-ulisboa.github.io/sig/Caderno-aulas-praticas-qgis3_SIG.pdf)
 * [Canal Youtube](https://www.youtube.com/@qgis3emportugues)
 * [Página oficial Fenix de acesso restrito](https://fenix.isa.ulisboa.pt/courses/cfiqgis-846413499991002). As gravações das sessões estão apenas acessíveis aos formando inscritos no curso e estão no separador *gravacoes_sessoes*
-* [Link Zoom para as sessões](https://videoconf-colibri.zoom.us/j/97385541766) 
+* [Link Zoom para as sessões](https://videoconf-colibri.zoom.us/j/97385541766)
+* [Inquérito aos formandos após sessão 5](https://forms.gle/NsX4uj1AcVmAk88G9)
 
 ## Sessão 1 (2 outubro 2023): início até secção 1.4.8 do caderno de apoio
 
@@ -51,3 +52,9 @@ Dados para a sessão:
 * Plugin para acesso a Basemaps:
   - Instalar Plugin QuickMapServices. Sugestão: depois de instalar o plugin, abrir no menu "Web" e escolher "Settings" e "More services" para instalar o "Contributed pack" de basemaps.
 * Exercício de edição para objectos vetoriais do tipo “linha”: criar novo conjunto de dados geográficos, digitalização, "snapping", "vertex tool".
+
+
+## Sessão 5 (16 de outubro de 2023). Secções 2.3 e 2.4
+
+* Leitura de dados GNSS em QGIS: animação em QGIS usando o atributo temporal do ficheiro gpx criado pela aplicação móvel (e.g. A-GPS Tracker ou Gaia GPS)
+* Criação e edição de dados geográficos do tipo polígono; "advanced digitizing toolbar"
