@@ -58,3 +58,17 @@ Dados para a sessão:
 
 * Leitura de dados GNSS em QGIS: animação em QGIS usando o atributo temporal do ficheiro gpx criado pela aplicação móvel (e.g. A-GPS Tracker ou Gaia GPS)
 * Criação e edição de dados geográficos do tipo polígono; "advanced digitizing toolbar"
+
+## Sessão 6 (18 de outubro de 2023). 
+
+* Discussão do problema de agregação e visualização dos dados ICNF sobre localizações de ninhos de vespa asiática
+* Propriedade "digitizing" para controle de features inválidas e erros topológicos na criação de dados geográficos
+* Análise espacial para dados vetoriais: descarregar os dados para o exercício dos repositórios seguintes:
+  - Tabelas simples [Download zip file: ProtRV e ProdS](https://github.com/isa-ulisboa/sig/raw/main/analise_espacial_cascais/tabelas_simples_cascais.zip)
+  - [Link: Carta dos Solos](https://snisolos.dgadr.gov.pt/downloads) no site da DGADR
+  - Rede estradas (roads), linhas de água (waterways), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
+  - CAOP: Carta Administrativa Oficial de Portugal no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
+  - COS: Carta de Uso e Ocupação do Solo no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
+* Caso não seja possível obter os dados geográficos nos links acima, pode usar unicamente as tabelas simples e os 5 conjuntos de dados geográficos que pode obter nos links abaixo:
+  - Tabelas simples [Download zip file: ProtRV e ProdS](https://github.com/isa-ulisboa/sig/raw/main/analise_espacial_cascais/tabelas_simples_cascais.zip)
+  - [Download zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](https://github.com/isa-ulisboa/sig/raw/main/analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
