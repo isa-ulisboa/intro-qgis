@@ -62,7 +62,7 @@ Dados para a sessão:
 ## Sessão 6 (18 de outubro de 2023). Secções 3.1, 3.2, 3.3.1
 
 * Discussão do problema de agregação e visualização dos dados ICNF sobre localizações de ninhos de vespa asiática
-* Propriedade "digitizing" para controle de features inválidas e erros topológicos na criação de dados geográficos
+* Propriedade "digitizing" para controle de features inválidas e erros topológicos na criação de dados geográficos: ver [video](https://www.youtube.com/watch?v=0cgA8yj5Wyg)
 * Análise espacial para dados vetoriais: descarregar os dados para o exercício dos repositórios seguintes:
   - Tabelas simples [Download zip file: ProtRV e ProdS](https://github.com/isa-ulisboa/sig/raw/main/analise_espacial_cascais/tabelas_simples_cascais.zip)
   - [Link: Carta dos Solos](https://snisolos.dgadr.gov.pt/downloads) no site da DGADR
@@ -76,6 +76,7 @@ Dados para a sessão:
 
 ## Sessão 7 (23 de outubro de 2023). Secções 
 
-* [Diagrama de operações]() para o problema de análise espacial: zonagem no concelho de  Cascais
+* [Diagrama de operações](diagrama_cascais-COS-OSM-2023.jpg) para o problema de análise espacial: zonagem no concelho de  Cascais
+  
 
 
