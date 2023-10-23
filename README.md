@@ -59,7 +59,7 @@ Dados para a sessão:
 * Leitura de dados GNSS em QGIS: animação em QGIS usando o atributo temporal do ficheiro gpx criado pela aplicação móvel (e.g. A-GPS Tracker ou Gaia GPS)
 * Criação e edição de dados geográficos do tipo polígono; "advanced digitizing toolbar"
 
-## Sessão 6 (18 de outubro de 2023). 
+## Sessão 6 (18 de outubro de 2023). Secções 3.1, 3.2, 3.3.1
 
 * Discussão do problema de agregação e visualização dos dados ICNF sobre localizações de ninhos de vespa asiática
 * Propriedade "digitizing" para controle de features inválidas e erros topológicos na criação de dados geográficos
@@ -72,3 +72,10 @@ Dados para a sessão:
 * Caso não seja possível obter os dados geográficos nos links acima, pode usar unicamente as tabelas simples e os 5 conjuntos de dados geográficos que pode obter nos links abaixo:
   - Tabelas simples [Download zip file: ProtRV e ProdS](https://github.com/isa-ulisboa/sig/raw/main/analise_espacial_cascais/tabelas_simples_cascais.zip)
   - [Download zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](https://github.com/isa-ulisboa/sig/raw/main/analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
+* Resolução de problemas de validade de features com "fix geometries"
+
+## Sessão 7 (23 de outubro de 2023). Secções 
+
+* [Diagrama de operações]() para o problema de análise espacial: zonagem no concelho de  Cascais
+
+
