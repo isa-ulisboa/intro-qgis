@@ -83,3 +83,4 @@ Dados para a sessão:
 
 * Criar mapa da produção de vinho branco por concelho, dados Pordata (Secção 1.6.5). Acesso aos dados: [dados Pordata ao nível do município](https://www.pordata.pt/Municipios/Produ%c3%a7%c3%a3o+de+vinho+por+cor-975).
 * Análise com dados raster: determinar perdas de eucalipto no concelho de manteigas entre 2018 e 2022 usando a COSc (raster) para a ocupação do solo e a CAOP (vetorial) para delimitar o concelho [diagrama de operações](diagrama_cosc_eucalipto_manteigas.pdf).
+* Inquérito: [alguns tópicos possíveis para a última semana do curso](https://forms.gle/Hs93LczkagzShHPa9)
