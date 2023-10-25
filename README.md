@@ -74,9 +74,11 @@ Dados para a sessão:
   - [Download zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](https://github.com/isa-ulisboa/sig/raw/main/analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 * Resolução de problemas de validade de features com "fix geometries"
 
-## Sessão 7 (23 de outubro de 2023). Secções 
+## Sessão 7 (23 de outubro de 2023). Secções 3.2, 3.3, 3.4, 2.4.5, 2.4.6
 
 * [Diagrama de operações](diagrama_cascais-COS-OSM-2023.jpg) para o problema de análise espacial: zonagem no concelho de  Cascais
+* Criação de uma tabela simples (e.g. notepad, Excel, ...) e importação em QGIS; Cálculo do rendimento total a partir da certa de ocupação do solo da Tapada da Ajuda (Secções 2.4.5 e 2.4.6)
   
+## Sessão 8 (25 de outubro de 2023). Secções 
 
-
+* Criar mapa da produção de vinho branco por concelho, dados Pordata (Secção 1.6.5). Acesso aos dados: [dados Pordata ao nível do município](https://www.pordata.pt/Municipios/Produ%c3%a7%c3%a3o+de+vinho+por+cor-975).
