@@ -12,6 +12,7 @@ Curso ISA Open Campus [Introdução a QGIS](https://www.isa-opencampus.pt/introd
 * [Página oficial Fenix de acesso restrito](https://fenix.isa.ulisboa.pt/courses/cfiqgis-846413499991002). As gravações das sessões estão apenas acessíveis aos formando inscritos no curso e estão no separador *gravacoes_sessoes*
 * [Link Zoom para as sessões](https://videoconf-colibri.zoom.us/j/97385541766)
 * [Inquérito aos formandos após sessão 5](https://forms.gle/NsX4uj1AcVmAk88G9)
+* [Inquérito sobre preferências de tópicos na última semana](respostas_inquerito_ultima_semana.pdf)
 
 ## Sessão 1 (2 outubro 2023): início até secção 1.4.8 do caderno de apoio
 
