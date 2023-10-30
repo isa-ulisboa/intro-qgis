@@ -86,7 +86,7 @@ Dados para a sessão:
 * Análise com dados raster: determinar perdas de eucalipto no concelho de manteigas entre 2018 e 2022 usando a COSc (raster) para a ocupação do solo e a CAOP (vetorial) para delimitar o concelho [diagrama de operações](diagrama_cosc_eucalipto_manteigas.pdf). Este exercício é semelhante ao exercício 4.5 do Caderno de Apoio.
 * Inquérito: [alguns tópicos possíveis para a última semana do curso](https://forms.gle/Hs93LczkagzShHPa9)
 
-## Sessão 9 (10 de outubro de 2023). Secção 7
+## Sessão 9 (30 de outubro de 2023). Secção 7
 
 * Conclusão do exercício sobre dados raster da sessão anterior;
 * Imagens multiespectrais (7 bandas) Landsat-8 OLI para a zona do Alqueva:
