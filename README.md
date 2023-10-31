@@ -93,7 +93,9 @@ Dados para a sessão:
   - [Download zip file: Imagem de 15 de maio 2014](https://github.com/isa-ulisboa/sig/blob/578f05a9bb761e99d6e487763994afd93fed68da/LC82030332014151.zip)
   - [Download zip file: Imagem de 1 de junho 2014](https://github.com/isa-ulisboa/sig/blob/578f05a9bb761e99d6e487763994afd93fed68da/LC82030332014167.zip)
 
-Nota: para descarregar imagens de satélite Sentinel, disponíveis desde 2016, aconselha-se fazer a instalação de SNAP <<ESA Sentinel Applications Platform, or [SNAP](https://step.esa.int/main/toolboxes/snap/), is a free and open toolbox for processing data products from numerous satellite missions such as the EU’s Copernicus Sentinel-1, Sentinel-2 and Sentinel-3, as well as ESA’s SMOS mission, and ‘Third Party Missions’.>>
+Nota: acesso a imagens de satélite:
+* Para descarregar imagens de satélite Sentinel, disponíveis desde 2016, aconselha-se fazer a instalação de SNAP <<ESA Sentinel Applications Platform, or [SNAP](https://step.esa.int/main/toolboxes/snap/), is a free and open toolbox for processing data products from numerous satellite missions such as the EU’s Copernicus Sentinel-1, Sentinel-2 and Sentinel-3, as well as ESA’s SMOS mission, and ‘Third Party Missions’.>>
+* O [EarthData](https://www.earthdata.nasa.gov/) da NASA permite aceder e descarregar muitos tipos d eimagens de satélite, incluindo Landsat
 
 ## Sessão 10 (2 de novembro de 2023). Secção 6.2
 
