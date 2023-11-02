@@ -97,7 +97,9 @@ Nota: acesso a imagens de satélite:
 * Para descarregar imagens de satélite Sentinel, disponíveis desde 2016, aconselha-se fazer a instalação de SNAP <<ESA Sentinel Applications Platform, or [SNAP](https://step.esa.int/main/toolboxes/snap/), is a free and open toolbox for processing data products from numerous satellite missions such as the EU’s Copernicus Sentinel-1, Sentinel-2 and Sentinel-3, as well as ESA’s SMOS mission, and ‘Third Party Missions’.>>
 * O [EarthData](https://www.earthdata.nasa.gov/) da NASA permite aceder e descarregar muitos tipos d eimagens de satélite, incluindo Landsat
 
-## Sessão 10 (2 de novembro de 2023). Secção 6.2
+## Sessão 10 (2 de novembro de 2023). Secção 6.4
 
 * Análise do relevo:
-  - Portalegre: [Download zip file: Curvas de nível, pontos cotados, linhas de água, linhas de festo, EPSG:20790](https://github.com/isa-ulisboa/sig/blob/main/Representacao_terreno_portalegre_20790.zip)
+  - Montejunto: [Download zip file: Curvas de nível, pontos cotados, linhas de água, linhas de festo, EPSG:3763](https://github.com/isa-ulisboa/sig/blob/main/representacao_terreno_montejunto_3763.zip)
+  - Descarregar o modelo digital de elevações para Portugal Continental (25 m) [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/)
+  - [Diagrama de operações para o problema](diagrama_montejunto_sessao_10.pdf)
