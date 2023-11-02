@@ -95,7 +95,8 @@ Dados para a sessão:
 
 Nota: acesso a imagens de satélite:
 * Para descarregar imagens de satélite Sentinel, disponíveis desde 2016, aconselha-se fazer a instalação de SNAP <<ESA Sentinel Applications Platform, or [SNAP](https://step.esa.int/main/toolboxes/snap/), is a free and open toolbox for processing data products from numerous satellite missions such as the EU’s Copernicus Sentinel-1, Sentinel-2 and Sentinel-3, as well as ESA’s SMOS mission, and ‘Third Party Missions’.>>
-* O [EarthData](https://www.earthdata.nasa.gov/) da NASA permite aceder e descarregar muitos tipos d eimagens de satélite, incluindo Landsat
+* Uma alternativa para imagens Sentinel é o [browser](https://dataspace.copernicus.eu/browser/). Exige registo em Copernicus.
+* O site [EarthData](https://www.earthdata.nasa.gov/) da NASA permite aceder e descarregar muitos tipos de imagens de satélite, incluindo Landsat
 
 ## Sessão 10 (2 de novembro de 2023). Secção 6.4
 
