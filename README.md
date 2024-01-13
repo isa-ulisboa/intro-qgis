@@ -1,6 +1,9 @@
 # intro-qgis
 Curso ISA Open Campus [Introdução a QGIS](https://www.isa-opencampus.pt/introducaoQGIS)
 
+Curso de formação de Introdução a QGIS. No final do curso, os formandos deverão ter a capacidade de criar e desenvolver de forma autónoma um projeto em QGIS, com dados em forma tabular e dados geográficos vetorias e/ou imagens, usando ficheiros locais ou acesso remoto a dados acessíveis pela internet. 
+
+* Formador: Manuel Campagnolo, ISA/ULisboa
 * Curso de formação (sem avaliação e sem atribuição de ECTS).
 * O formando receberá um Certificado de Curso de Formação.
 * É exigida a presença em, pelo menos, 85% do tempo de contacto.
